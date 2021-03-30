@@ -1,0 +1,23 @@
+.HEADER{
+     background-color:lightgrey;
+     display: flex;
+     justify-content:center;
+
+}
+
+
+.FOOTER{
+    
+    display: flex;
+  justify-content:flex-end ;
+}
+.GRID{
+display: flex;
+border-radius: 1cm;
+border:solid ;
+flex-wrap:wrap-reverse;
+justify-content:space-evenly ;
+}
+p{
+    text-align: center;
+}
